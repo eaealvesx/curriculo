@@ -1,2 +1,1 @@
-# curriculo
-meu curriculo
+http://eaealvesx.github.io./curriculo
